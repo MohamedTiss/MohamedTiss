@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mohamed Tiss</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=300&width=435&lines=Hello%2C+there!++%F0%9F%91%8B;This+is+Mohamed+Tiss;Nice+to+meet+you)](https://git.io/typing-svg)
 <h3 align="center">A computer science engineer</h3>
-<img align ="right" alt="coding" width="400" scr="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
+<img align ="right" alt="coding" width="400" scr="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedtiss&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedtiss" /> </p>
+
+- 💬 Active membre in **IEEE ENSI SB,ARE,CPC and OSSEC**
 
 - 📫 How to reach me **mouhammedtiss@gmail.com**
 
