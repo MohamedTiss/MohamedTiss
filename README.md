@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=300&width=435&lines=Hello%2C+there!++%F0%9F%91%8B;This+is+Mohamed+Tiss;Nice+to+meet+you)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Abril+Fatface&weight=900&size=30&duration=4000&pause=500&center=true&vCenter=true&width=1100&height=120&lines=Hello%2C+there!+%F0%9F%91%8B;This+is+Mohamed+Tiss;Nice+to+meet+you)](https://git.io/typing-svg)
 <h3 align="center">A computer science engineer</h3>
 <img align="right" alt="coding" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedtiss&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedtiss" /> </p>
